@@ -12,8 +12,9 @@ body {
     color: rgb(255, 255, 255);
    }
    header {
-    background-image: url('https://images.pexels.com/photos/18686569/pexels-photo-18686569/free-photo-of-smartphone-mesa-balcao-computador-portatil.jpeg');
-    background-size: 550px;
+    background-image: url('logo.sndjsdn.jpg');
+    height: 90px;
+    background-size: 510px;
     background-repeat: no-repeat;
     background-color:aqua;
     color:rgb(92, 43, 226);
