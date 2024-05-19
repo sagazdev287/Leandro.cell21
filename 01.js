@@ -1,5 +1,5 @@
 var a;
-a="Site em manutençao, em caso de erros aguarde alguns minutos e tente novamente!!"
+a="Site em manutenção, em caso de erros aguarde alguns minutos e tente novamente!!"
 alert(a);
 
 var a;
