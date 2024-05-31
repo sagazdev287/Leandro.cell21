@@ -8,3 +8,5 @@ alert(a);
 
 
 console.log("Site monitorado 48H!");
+
+setInterval(() => { let rgb = "rgb(" + Math.ceil(Math.random() * 255) + ", " + Math.ceil(Math.random() * 255) + ", " + Math.ceil(Math.random() * 255) +")"; document.querySelector("nav").style.backgroundColor = rgb }, 1000)
