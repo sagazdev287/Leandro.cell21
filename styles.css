@@ -11,16 +11,17 @@ body {
     background-color:#ffffff;
     color: rgb(255, 255, 255);
    }
-   header {
+  header {
     background-image: url('apple.header.jpg');
     height: 200px;
     background-size: 500px;
     background-repeat: no-repeat;
     background-color:aqua;
-    color:rgb(92, 43, 226);
+    color:rgb(255, 0, 85);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 10px 0;
     text-align: center;
-   }
+  }
 nav {
     background-color:rebeccapurple;
     padding: 5px 0;
