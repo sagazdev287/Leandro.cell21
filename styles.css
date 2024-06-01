@@ -12,8 +12,8 @@ body {
     color: rgb(255, 255, 255);
    }
    header {
-    background-image: url('logo.sndjsdn.jpg');
-    height: 99px;
+    background-image: url('apple.header.jpg');
+    height: 200px;
     background-size: 500px;
     background-repeat: no-repeat;
     background-color:aqua;
