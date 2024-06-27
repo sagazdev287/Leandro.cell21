@@ -4,7 +4,8 @@
 //var a;
 //a="Término da manutençao previsto para as 01:35 hrs,#Equipesagazprogramer"
 //alert(a);
-
+var nome = window.prompt('Qual é seu nome ?');
+window.alert('Prazer em te conhecer, ' + nome + '!')
 
 
 console.log("Site monitorado 48H!");
