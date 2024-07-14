@@ -5,7 +5,7 @@
 //a="Término da manutençao previsto para as 01:35 hrs,#Equipesagazprogramer"
 //alert(a);
 var nome = window.prompt('Qual é seu nome ?');
-window.alert('Seja bem-vindo a loja Leandro celulares, ' + nome + ', fique avontade!!')
+window.alert('Seja bem-vindo a loja Leandro celulares ' + nome + ', fique avontade!!')
 
 
 console.log("Site monitorado 48H!");
