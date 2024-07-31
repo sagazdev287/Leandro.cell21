@@ -1,9 +1,9 @@
-var a;
-a="Site em manutenção!"
-alert(a);
-var a;
-a="Término da manutençao previsto para as 17:30 hrs,#Equipesagazprogramer"
-alert(a);
+//var a;
+//a="Site em manutenção!"
+//alert(a);
+//var a;
+//a="Término da manutençao previsto para as 17:30 hrs,#Equipesagazprogramer"
+//alert(a);
 //var nome = window.prompt('Qual é seu nome ?');
 //window.alert('Seja bem-vindo a loja Leandro celulares ' + nome + ', fique avontade!!')
 
